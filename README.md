@@ -16,6 +16,7 @@
 <p align="center">
   My niche is building lovely ui designs into responsive web-apps as I have a really good eye for detail.
 I'm also a smart contract dev and optimizoor 😎, crazy about the evm and enjoy writing solidity.
-I should add that I'm a leetcode addict and a competitive programmer.
+I should add that I'm a leetcode guy and a competitive programmer.
+  Update: I'm becoming a Rustacean 🦀
 </p>
 

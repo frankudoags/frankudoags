@@ -14,6 +14,6 @@
 
 
 <p align="center">
-  Tpescript, Ethereum, Rust 🦀
+  Typescript, Ethereum, Rust 🦀
 </p>
 
